@@ -1,7 +1,7 @@
- Project Title: Algorithm Evaluation using Titanic Dataset
+# Project Title: Algorithm Evaluation using Titanic Dataset
 
  
-📄 Files:
+## 📄 Files:
 
 algo_eval.ipynb: Main notebook where multiple classification algorithms are evaluated.
 
@@ -10,11 +10,11 @@ train_titanic.csv: Training dataset for modeling.
 test_titanic.csv: Testing dataset for final predictions or model comparison.
 
 
-📌 Detailed Project Description:
+## 📌 Detailed Project Description:
 This project performs a comparative analysis of different machine learning algorithms on the classic Titanic survival dataset. The main goal is to evaluate the performance of various models in predicting passenger survival using real-world data.
 
 
-✅ Key Steps Performed in the Notebook (algo_eval.ipynb):
+## ✅ Key Steps Performed in the Notebook (algo_eval.ipynb):
 1. Data Loading & Exploration
 Loaded the training and test datasets.
 
@@ -65,13 +65,13 @@ Visual comparison via bar chart or table.
 Identified top-performing model for the Titanic dataset.
 
 
-📊 Insights:
+## 📊 Insights:
 Random Forest and SVM typically perform well due to non-linearity and ensemble strength.
 
 Feature engineering (like combining family size or creating titles from names) may have been explored for performance improvement.
 
 
-🛠️ Tools Used:
+## 🛠️ Tools Used:
 Python
 
 Pandas, NumPy
@@ -82,7 +82,7 @@ Scikit-learn
 
 
 
-🎯 Project Outcome:
+## 🎯 Project Outcome:
 Identified the best classification model for Titanic survival prediction.
 
 Built a reproducible workflow for algorithm comparison on classification problems.
