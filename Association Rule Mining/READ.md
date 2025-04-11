@@ -1,17 +1,17 @@
 # 📁 Project Title: Market Basket Analysis using Association Rule Mining
 
-📄 Files:
+## 📄 Files:
 
 ARM.ipynb: Main Jupyter Notebook containing code for association rule mining.
 
 store_data.csv: Dataset representing store transactions (likely in basket format).
 
 
-📌 Detailed Project Description:
+## 📌 Detailed Project Description:
 This project implements Association Rule Mining (ARM) techniques to uncover hidden relationships and frequently co-purchased items in transactional retail data. This technique is commonly used in Market Basket Analysis to improve product placement, cross-selling strategies, and recommendation systems.
 
 
-✅ Key Steps in ARM.ipynb:
+## ✅ Key Steps in ARM.ipynb:
 1. Data Understanding & Preparation
 The dataset (store_data.csv) is read and structured into a format compatible with ARM algorithms.
 
@@ -52,7 +52,7 @@ Used network graphs or heatmaps to visualize strong associations (if included).
 
 
 
-📊 Insights Derived:
+## 📊 Insights Derived:
 Revealed the most common item combinations.
 
 Identified strong product bundling opportunities.
@@ -60,7 +60,7 @@ Identified strong product bundling opportunities.
 Helped improve cross-sell strategies for retail businesses.
 
 
-🛠️ Tools & Libraries Used:
+## 🛠️ Tools & Libraries Used:
 Python
 
 Pandas, NumPy
@@ -69,7 +69,7 @@ Matplotlib, Seaborn (for visuals)
 
 mlxtend (for Apriori algorithm and association rules)
 
-🎯 Project Outcome:
+## 🎯 Project Outcome:
 Performed successful Market Basket Analysis.
 
 Generated high-lift and high-confidence product association rules.
