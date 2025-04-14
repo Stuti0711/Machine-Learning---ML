@@ -124,3 +124,29 @@ This repo contains a wide range of hands-on projects showcasing supervised and u
 📌 **Real-Life Example**: Used in energy sector to forecast electricity demand based on weather and usage history.  
 - Linear, Ridge, Lasso regression techniques.
 - Evaluates using RMSE, R², and visual diagnostics.
+
+### 🔹 18. Regularization  
+📌 **Real-Life Example**: Lasso/Ridge regularization is used in financial modeling to avoid overfitting when predicting stock market trends with numerous correlated variables.  
+- Demonstrates Ridge and Lasso to reduce model complexity.
+- Helps manage overfitting in regression models.
+
+---
+
+### 🔹 19. Time Series Analysis  
+📌 **Real-Life Example**: Retailers like Walmart forecast demand using historical sales data to optimize inventory using time series models.  
+- Uses ARIMA, SARIMA, or Prophet models.
+- Analyzes trends, seasonality, and autocorrelation.
+
+---
+
+### 🔹 20. Simple Linear Regression  
+📌 **Real-Life Example**: Insurance companies use simple linear regression to predict customer claims based on age or years of driving.  
+- Shows relationship between two continuous variables.
+- Includes evaluation metrics like RMSE, R².
+
+---
+
+### 🔹 21. xgBoost  
+📌 **Real-Life Example**: Kaggle competition winners frequently use XGBoost for its performance on structured/tabular datasets (e.g., Titanic survival prediction).  
+- Implements Extreme Gradient Boosting for classification or regression.
+- Provides hyperparameter tuning and feature importance.
