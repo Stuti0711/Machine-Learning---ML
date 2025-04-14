@@ -112,8 +112,3 @@ This repository contains machine learning projects developed for practicing mode
 ## ✅ **Final Notes**
 All projects listed above were built using real datasets and practical approaches. They reflect strong proficiency in Python, machine learning algorithms, and the end-to-end data science process. These projects are ready to be reused and adapted in upcoming data science applications.
 
----
-
-### **How to Use this Repository**
-1. Clone this repository:  
-   `git clone https://github.com/yourusername/Machine-Learning-Portfolio.git`
